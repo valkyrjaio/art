@@ -29,7 +29,7 @@ social cards.
 ### Orange
 
 | Variant | Preview                                    |
-|---------|--------------------------------------------|
+| ------- | ------------------------------------------ |
 | Default | ![Default](long-banner/orange/default.png) |
 | PHP     | ![PHP](long-banner/orange/php.png)         |
 | Java    | ![Java](long-banner/orange/java.png)       |
@@ -42,7 +42,7 @@ The primary Valkyrja mark, including wordmark.
 ### Orange
 
 | Variant | Preview                                  |
-|---------|------------------------------------------|
+| ------- | ---------------------------------------- |
 | Default | ![Default](full-logo/orange/default.png) |
 | PHP     | ![PHP](full-logo/orange/php.png)         |
 | Java    | ![Java](full-logo/orange/java.png)       |
@@ -55,13 +55,13 @@ Compact marks suitable for avatars, favicons, and other small-format uses.
 ### Orange
 
 | Variant | Preview                                       |
-|---------|-----------------------------------------------|
+| ------- | --------------------------------------------- |
 | Default | ![Default](thumbnail-logo/orange/default.png) |
 
 ### Blue
 
 | Variant | Preview                                     |
-|---------|---------------------------------------------|
+| ------- | ------------------------------------------- |
 | Default | ![Default](thumbnail-logo/blue/default.png) |
 | White   | ![White](thumbnail-logo/blue/white.png)     |
 
@@ -75,13 +75,13 @@ Lifecycle and architecture diagrams used in Valkyrja documentation.
 Cross-language diagrams that apply to every port.
 
 | Chart               | Preview                                                         |
-|---------------------|-----------------------------------------------------------------|
+| ------------------- | --------------------------------------------------------------- |
 | Exception Hierarchy | ![Exception Hierarchy](flow-charts/all/exception_hierarchy.svg) |
 
 ### PHP
 
 | Chart                 | Preview                                                             |
-|-----------------------|---------------------------------------------------------------------|
+| --------------------- | ------------------------------------------------------------------- |
 | CLI Lifecycle         | ![CLI Lifecycle](flow-charts/php/cli-lifecycle.svg)                 |
 | HTTP Lifecycle        | ![HTTP Lifecycle](flow-charts/php/http-lifecycle.svg)               |
 | Worker HTTP Lifecycle | ![Worker HTTP Lifecycle](flow-charts/php/worker-http-lifecycle.svg) |
@@ -90,25 +90,25 @@ Cross-language diagrams that apply to every port.
 ### Java
 
 | Chart               | Preview                                                          |
-|---------------------|------------------------------------------------------------------|
+| ------------------- | ---------------------------------------------------------------- |
 | Exception Hierarchy | ![Exception Hierarchy](flow-charts/java/exception_hierarchy.svg) |
 
 ### Go
 
 | Chart               | Preview                                                        |
-|---------------------|----------------------------------------------------------------|
+| ------------------- | -------------------------------------------------------------- |
 | Exception Hierarchy | ![Exception Hierarchy](flow-charts/go/exception_hierarchy.svg) |
 
 ### Python
 
 | Chart               | Preview                                                            |
-|---------------------|--------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------ |
 | Exception Hierarchy | ![Exception Hierarchy](flow-charts/python/exception_hierarchy.svg) |
 
 ### TypeScript
 
 | Chart               | Preview                                                                |
-|---------------------|------------------------------------------------------------------------|
+| ------------------- | ---------------------------------------------------------------------- |
 | Exception Hierarchy | ![Exception Hierarchy](flow-charts/typescript/exception_hierarchy.svg) |
 
 Usage
@@ -145,11 +145,7 @@ Licensed under the [MIT license][MIT license url]. See
 [`LICENSE.md`](./LICENSE.md).
 
 [valkyrja url]: https://valkyrja.io
-
 [contributing url]: https://github.com/valkyrjaio/.github/blob/26.x/CONTRIBUTING.md
-
 [repository naming url]: https://github.com/valkyrjaio/.github/blob/26.x/REPOSITORY_NAMING.md
-
 [vocabulary url]: https://github.com/valkyrjaio/.github/blob/26.x/VOCABULARY.md
-
 [MIT license url]: https://opensource.org/licenses/MIT
