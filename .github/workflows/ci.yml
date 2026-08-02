@@ -28,3 +28,12 @@ jobs:
       pull-requests: write
       contents: read
     secrets: inherit
+
+  markdown-check:
+    name: Markdown Check
+    if: github.event_name == 'pull_request'
+    uses: valkyrjaio/.github/.github/workflows/_markdown-check.yml@699060a99b1eb0c346bc66dc33e99410f5de55d7
+    permissions:
+      pull-requests: write
+      contents: read
+    secrets: inherit
