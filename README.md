@@ -141,8 +141,16 @@ When adding new assets, follow the existing directory structure:
 License
 -------
 
-Licensed under the [MIT license][MIT license url]. See
-[`LICENSE.md`](./LICENSE.md).
+This repository holds two kinds of material, and each kind has its own terms.
+
+The brand assets in `full-logo/`, `long-banner/`, and `thumbnail-logo/` are all
+rights reserved. You may show an unmodified brand asset to refer to the Valkyrja
+project, such as a link from your own README. Every other use needs permission.
+
+Everything else is licensed under the [MIT license][MIT license url]. This
+includes the diagrams in `flow-charts/` and the workflow configuration.
+
+See [`LICENSE.md`](./LICENSE.md) for the full terms.
 
 [valkyrja url]: https://valkyrja.io
 [contributing url]: https://github.com/valkyrjaio/.github/blob/26.x/CONTRIBUTING.md
