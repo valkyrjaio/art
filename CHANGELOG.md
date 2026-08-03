@@ -1,6 +1,13 @@
 # Release Notes for 26.x
 
-## [Unreleased](https://github.com/valkyrjaio/art/compare/v26.0.2...26.x)
+## [Unreleased](https://github.com/valkyrjaio/art/compare/v26.0.3...26.x)
+
+## [v26.0.3](https://github.com/valkyrjaio/art/compare/v26.0.2...v26.0.3) - 2026-08-03
+
+* [Workflow] ci: Pass each reusable workflow the secrets it declares by [@MelechMizrachi](https://github.com/MelechMizrachi) in https://github.com/valkyrjaio/art/pull/47
+* [Workflow] ci: Update .github workflow refs to v26.22.0 by [@valkyrja-volundr](https://github.com/valkyrja-volundr)[bot] in https://github.com/valkyrjaio/art/pull/57
+* [Copyright] ci: Add the copyright header check by [@MelechMizrachi](https://github.com/MelechMizrachi) in https://github.com/valkyrjaio/art/pull/58
+* [Workflow] ci: Update .github workflow refs to v26.23.0 by [@valkyrja-volundr](https://github.com/valkyrja-volundr)[bot] in https://github.com/valkyrjaio/art/pull/59
 
 ## [v26.0.2](https://github.com/valkyrjaio/art/compare/v26.0.1...v26.0.2) - 2026-08-02
 
