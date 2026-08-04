@@ -1,5 +1,5 @@
 <p align="center"><a href="https://valkyrja.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/valkyrjaio/art/refs/heads/master/long-banner/orange/default.png" width="100%">
+    <img src="https://raw.githubusercontent.com/valkyrjaio/art/refs/heads/26.x/long-banner/orange/default.png" width="100%">
 </a></p>
 
 # Valkyrja Art
@@ -118,13 +118,13 @@ Link directly to the raw file from GitHub for use in READMEs, documentation,
 and external sites:
 
 ```
-https://raw.githubusercontent.com/valkyrjaio/art/refs/heads/master/{path-to-asset}
+https://raw.githubusercontent.com/valkyrjaio/art/refs/heads/26.x/{path-to-asset}
 ```
 
 For example, the default long banner used in ecosystem READMEs:
 
 ```
-https://raw.githubusercontent.com/valkyrjaio/art/refs/heads/master/long-banner/orange/default.png
+https://raw.githubusercontent.com/valkyrjaio/art/refs/heads/26.x/long-banner/orange/default.png
 ```
 
 Contributing
