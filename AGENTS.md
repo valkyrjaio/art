@@ -10,7 +10,7 @@ applies.
 ## Read first
 
 **Cross-language canonical** —
-<https://github.com/valkyrjaio/architecture/blob/master/AGENTS.md>
+<https://github.com/valkyrjaio/architecture/blob/26.x/AGENTS.md>
 
 It governs the parts that **do** apply here:
 
